@@ -5,7 +5,7 @@
 # About Me:
 ✨ - passionate iOS Software Developer<br>✴️ - in a past life a System/Network Administrator<br>🏛 - Master, Information Networks of Telecommunication<br>         Odessa National Telecommunications Academy<br>🌿 - I'm looking to collaborate with other developers<br>
 
-# My pet 🐈 project that I'm currently developing 🔉 
+# A piece of my pet 🐈 project that I'm currently developing 🔉 
 
 https://github.com/OlgaFlower/OlgaFlower/assets/44554910/de4cc891-1baf-4d6c-9979-901effef49f3
 
