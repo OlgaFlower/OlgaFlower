@@ -41,7 +41,7 @@ Highlights
 - Localization Infrastructure
 - Design System Organization
 
-🔗 Repository: https://github.com/OlgaFlower/datesense-ios-showcase
+🔗 Repository: https://github.com/OlgaFlower/DateSense-ios-showcase
 
 ---
 
